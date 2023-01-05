@@ -1,3 +1,23 @@
+## What is devops?
 Devops is a software development strategy which bridges the gap between the Developers and other IT techical staffs.
 Devops will be easier for the orgaization to release small features quickly and incorporate feedbacks immediately.
 Devops involves a lot of Development, Testing and deployment of technologies for building CI/CD pipelines.
+
+## What is Automation, scaling and infrastucture?
+Automation involves using tools and technologies to automate tasks such as code testing, deployment, and infrastructure management.
+Automation helps to reduce the risk of human error, increase the reliability of software, and speed up the delivery process.
+
+Scaling is another important aspect of DevOps, as it involves ensuring that an organization's infrastructure and systems are able to handle an increasing workload.
+This can involve using technologies such as load balancers, containerization to manage resources and maintain performance
+
+In the context of DevOps, infrastructure is often managed using tools such as configuration management systems and infrastructure as code, 
+which allow IT operations professionals to automate and manage the deployment and configuration of infrastructure resources.
+
+
+##Why should learn DevOps & Why DevOps is Important
+- Greater Scalability
+- Deploy faster-50%
+- Better Recovery time
+- Improved Security
+- Early error detection
+- Production support
