@@ -1,0 +1,157 @@
+ 1104  cd 100days_challenge/
+ 1105  ls
+ 1106  rm -d
+ 1107  rm -d {1..90}
+ 1108  ls
+ 1109  rm -rf day day1..day90 day{day1..day90}
+ 1110  ls
+ 1111  rm -r
+ 1112  rm -rf \{day1..day90\}/
+ 1113  ls
+ 1114  ls -a
+ 1115  rm -f . ..
+ 1116  rm -rf . ..
+ 1117  ls
+ 1118  ls -a
+ 1119  pwd
+ 1120  ls -l
+ 1121  cd ..
+ 1122  ls-l
+ 1123  ls -l
+ 1124  cd my_scripts/
+ 1125  ls -l
+ 1126  cd ..
+ 1127  ls
+ 1128  ls -l
+ 1129  ls -a
+ 1130  cd my_scripts/
+ 1131  ls
+ 1132  cd ..
+ 1133  ls
+ 1134  cd 100days_challenge/
+ 1135  ls -la
+ 1136  ls -a
+ 1137  ls
+ 1138  ls -la
+ 1139  cd .
+ 1140  cd ..
+ 1141  ls -i
+ 1142  cd my_scripts/
+ 1143  ls -i
+ 1144  ls -d
+ 1145  ls -d */
+ 1146  ls
+ 1147  cd ..
+ 1148  ls -d
+ 1149  ls -d */
+ 1150  cd 100days_challenge/
+ 1151  ls
+ 1152  ls -a
+ 1153  ls -la
+ 1154  cd -
+ 1155  pwd
+ 1156  cd my_scripts/
+ 1157  ls
+ 1158  cd new_folder1/
+ 1159  ls
+ 1160  cat new_file1.txt
+ 1161  cd ../..
+ 1162  ls
+ 1163  cd new
+ 1164  cd New/
+ 1165  ls
+ 1166  mkdir -p a/b/c/d
+ 1167  ls
+ 1168  cd a
+ 1169  ls
+ 1170  cd b
+ 1171  ls
+ 1172  cd c
+ 1173  ls
+ 1174  cd d
+ 1175  ls
+ 1176  pwd
+ 1177  ls
+ 1178  cd ~
+ 1179  cd New/
+ 1180  ls
+ 1181  rm -rf a
+ 1182  ls
+ 1183  history
+ubuntu@ip-172-31-80-139:~/New$ touch day2.txt
+ubuntu@ip-172-31-80-139:~/New$ vim day2
+ubuntu@ip-172-31-80-139:~/New$ "day2" [New] 74L, 1037B written
+ubuntu@ip-172-31-80-139:~/New$ cat day2
+ 1110  ls
+ 1111  rm -r
+ 1112  rm -rf \{day1..day90\}/
+ 1113  ls
+ 1114  ls -a
+ 1115  rm -f . ..
+ 1116  rm -rf . ..
+ 1117  ls
+ 1118  ls -a
+ 1119  pwd
+ 1120  ls -l
+ 1121  cd ..
+ 1122  ls-l
+ 1123  ls -l
+ 1124  cd my_scripts/
+ 1125  ls -l
+ 1126  cd ..
+ 1127  ls
+ 1128  ls -l
+ 1129  ls -a
+ 1130  cd my_scripts/
+ 1131  ls
+ 1132  cd ..
+ 1133  ls
+ 1134  cd 100days_challenge/
+ 1135  ls -la
+ 1136  ls -a
+ 1137  ls
+ 1138  ls -la
+ 1139  cd .
+ 1140  cd ..
+ 1141  ls -i
+ 1142  cd my_scripts/
+ 1143  ls -i
+ 1144  ls -d
+ 1145  ls -d */
+ 1146  ls
+ 1147  cd ..
+ 1148  ls -d
+ 1149  ls -d */
+ 1150  cd 100days_challenge/
+ 1151  ls
+ 1152  ls -a
+ 1153  ls -la
+ 1154  cd -
+ 1155  pwd
+ 1156  cd my_scripts/
+ 1157  ls
+ 1158  cd new_folder1/
+ 1159  ls
+ 1160  cat new_file1.txt
+ 1161  cd ../..
+ 1162  ls
+ 1163  cd new
+ 1164  cd New/
+ 1165  ls
+ 1166  mkdir -p a/b/c/d
+ 1167  ls
+ 1168  cd a
+ 1169  ls
+ 1170  cd b
+ 1171  ls
+ 1172  cd c
+ 1173  ls
+ 1174  cd d
+ 1175  ls
+ 1176  pwd
+ 1177  ls
+ 1178  cd ~
+ 1179  cd New/
+ 1180  ls
+ 1181  rm -rf a
+ 1182  ls
