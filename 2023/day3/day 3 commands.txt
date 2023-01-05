@@ -1,0 +1,156 @@
+ 1166  mkdir -p a/b/c/d
+ 1167  ls
+ 1168  cd a
+ 1169  ls
+ 1170  cd b
+ 1171  ls
+ 1172  cd c
+ 1173  ls
+ 1174  cd d
+ 1175  ls
+ 1176  pwd
+ 1177  ls
+ 1178  cd ~
+ 1179  cd New/
+ 1180  ls
+ 1181  rm -rf a
+ 1182  ls
+ 1183  history
+ 1184  touch day2.txt
+ 1185  vim day2
+ 1186  cat day2
+ 1187  ls
+ 1188  touch day2.txt
+ 1189  vim day2.txt
+ 1190  cat day2.txt
+ 1191  touch day2.txt >day2task.txt
+ 1192  cat day2.txt
+ 1193  ls
+ 1194  cat day2task.txt
+ 1195  ls
+ 1196  cp day2.txt day2task.txt
+ 1197  ls
+ 1198  cat day2task.txt
+ 1199  ls
+ 1200  pwd
+ 1201  cd ~
+ 1202  exit
+ 1203  ls
+ 1204  pwd
+ 1205  cd New/
+ 1206  pwd
+ 1207  ls
+ 1208  pwd
+ 1209  ls
+ 1210  exit
+ 1211  ls
+ 1212  cd New/
+ 1213  pwd
+ 1214  ls
+ 1215  cat local.txt
+ 1216  cat day2task.txt
+ 1217  ls
+ 1218  cd my_scripts/
+ 1219  ls
+ 1220  cd ~
+ 1221  ls
+ 1222  pwd
+ 1223  yum install
+ 1224  yup update
+ 1225  yum update
+ 1226  clear
+ 1227  yum update
+ 1228  clear
+ 1229  ls
+ 1230  pwd
+ 1231  cat local.txt
+ 1232  cp local.txt .
+ 1233  ls
+ 1234  touch local1.txt
+ 1235  cat local1.txt
+ 1236  vim local1.txt
+ 1237  cat local1.txt
+ 1238  la -ls
+ 1239  chmod 700 local1.txt
+ 1240  la -ls
+ 1241  history
+ 1242  history -20
+ 1243  hostory 30
+ 1244  history 40
+ 1245  ls
+ 1246  mkdir demo
+ 1247  cat local1.txt > touch localll111.txt
+ 1248  cp local1.txt > touch local1111.txt
+ 1249  cat local1111.txt
+ 1250  ls
+ 1251  cd demo/
+ 1252  ls
+ 1253  mv local1111.txt .
+ 1254  cd ..
+ 1255  ls
+ 1256  mv local1111.txt demo
+ 1257  ls
+ 1258  mv local1.txt demo
+ 1259  ls
+ 1260  cd demo/
+ 1261  ls
+ 1262  la -ls
+ 1263  chmod 777 local1.txt
+ 1264  la -ls
+ 1265  rm local1
+ 1266  rm local1.txt
+ 1267  ls
+ 1268  cd ..
+ 1269  ls
+ 1270  rm demo/
+ 1271  rm -rd demo/
+ 1272  ls
+ 1273  mkdir day3
+ 1274  vim fruit.txt
+ 1275  cat fruit.txt
+ 1276  vim devops.txt
+ 1277  cat dev
+ 1278  cat devops
+ 1279  ls
+ 1280  cat devops.txt
+ 1281  cat devops.txt | head -2
+ 1282  cat devops.txt | tail -2
+ 1283  cd 100days_challenge/
+ 1284  ls
+ 1285  cd ..
+ 1286  sort -r devops.txt
+ 1287  sort -f devops.txt
+ 1288  cd 100days_challenge/
+ 1289  ls
+ 1290  vim number .txt
+ 1291  cat vi
+ 1292  cat number.txt
+ 1293  cat number .txt
+ 1294  sort -f number .txt
+ 1295  cat number .txt
+ 1296  sort -f number .txt
+ 1297  sort -n number .txt
+ 1298  rm -f number .txt
+ 1299  ls
+ 1300  touch coler.txt
+ 1301  cat coler.txt
+ 1302  vim coler.txt
+ 1303  cat coler.txt
+ 1304  ls
+ 1305  cd ..
+ 1306  ls
+ 1307  cat devops.txt
+ 1308  mv devops.txt 100days_challenge/
+ 1309  ls
+ 1310  cd 100days_challenge/
+ 1311  ls
+ 1312  cd ..
+ 1313  ls
+ 1314  cat fruit.txt
+ 1315  vim fruit.txt
+ 1316  cat fruit.txt
+ 1317  mv fruit.txt 100days_challenge/
+ 1318  cd 100days_challenge/
+ 1319  ls
+ 1320  diff fruit.txt coler.txt
+ 1321  history
